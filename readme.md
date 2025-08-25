@@ -1,6 +1,8 @@
-Bienvenido a la aplicación web "Amigo Secreto".
+                        AMIGO SECRETO
 
-En esta aplicación web podrás organizar tu sorteo de "Amigo Secreto" de forma simple y rápida!
+Bienvenido a esta entretenida aplicación web "Amigo Secreto".
+
+Aquí podrás organizar y realizar tu sorteo de "Amigo Secreto" de forma simple y rápida!
 
 
 Te presento sus caracteristicas:
@@ -15,7 +17,7 @@ Cómo se usa:
 1- Agrega uno a uno los nombres de los participantes el cuadro de texto.
 2- No olvides presionar el botón "Añadir" luego de cada nombre ingresado.
 3- Puedes verificar los nombres agregados mirando la lista de amigos que aparece a medida que los vas ingresando.
-4- Cuando termines de ingresar tus amigos solo presiona el botón "Sortear amigo" y se sorteará aleatoriamente un amigo secreto.
+4- Cuando termines de ingresar tus amigos, solo presiona el botón "Sortear amigo" y se sorteará aleatoriamente un amigo secreto.
 5- Verás un mensaje indicando quién es tu amigo o amiga secreta.
 
 
@@ -28,6 +30,6 @@ Tecnologias usadas:
 
 
 Puedes ingresar aqui!!!
-
+https://agrandonb.github.io/amigo-secreto/
 
 Fecha de la última versión del proyecto: 25 Agosto 2025.
