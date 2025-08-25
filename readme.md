@@ -28,3 +28,6 @@ Tecnologias usadas:
 
 
 Puedes ingresar aqui!!!
+
+
+Fecha de la última versión del proyecto: 25 Agosto 2025.
