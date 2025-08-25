@@ -32,7 +32,8 @@ function actualizarLista() {
 }
 
 function sortearAmigo() {
-    let nombreAleatorio = Math.floor(Math.random() * nombresAmigos.length);
+    let indiceAleatorio = Math.floor(Math.random() * nombresAmigos.length);
+    let nombreAleatorio = nombresAmigos[indiceAleatorio]
     
     if (nombresAmigos.length === 0) {
         document.getElementById("resultado").disabled = true;
